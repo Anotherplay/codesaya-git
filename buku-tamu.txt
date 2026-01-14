@@ -938,7 +938,7 @@ Pesan: Terimakasih ya
 
 Entry: 132
 CodeSaya: Anotherplay
-Github: Anotherplya
+Github: Anotherplay
 Nama: -
 Website: -
 Pesan: -
